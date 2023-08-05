@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alok003&label=Profile%20views&color=0e75b6&style=flat" alt="alok003" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS , Machime Learning**
+- 🌱 I’m currently learning **ReactJS , Machine Learning**
 
 - 💬 Ask me about **MERN stack , ML , Develpoment**
 
