@@ -6,9 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alok003&label=Profile%20views&color=0e75b6&style=flat" alt="alok003" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS , Machine Learning**
+- 🌱 I’m working on **Spring Boot ,Spring ,MySQL **
 
-- 💬 Ask me about **MERN stack , ML , Develpoment**
+- 💬 Ask me about **Java , ML , Develpoment**
 
 - 📫 How to reach me **alok8203thakur@gmail.com**
 
